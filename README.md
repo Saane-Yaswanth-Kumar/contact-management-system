@@ -18,7 +18,7 @@ This project is a Contact Management System implemented in Python, operated enti
 
 ## Technologies Used
 
-- Python 3.x
+- Python 3.1.1
 
 
 
